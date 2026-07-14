@@ -14,6 +14,10 @@ sudo apt-get install build-essential docker.io docker-buildx
 You may also want to add your user to the docker group (`adduser <username> docker`), and log out
 and back in. This will remove the need to run docker commands via sudo.
 
+### Build System Specs
+The Novatek kernel requires a large amount of RAM (~64GB) to successfully compile. It also takes
+up a lot of disk space, so ~150GB is recommended for a full build of this tarball.
+
 ## Build Instructions 
 After downloading the tarball, run the following commands:
 ```
