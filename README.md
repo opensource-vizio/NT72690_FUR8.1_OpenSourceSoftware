@@ -1,5 +1,13 @@
 # NT72690\_FUR8.1\_OpenSourceSoftware
 
+## Identifiers
+|Item|Value
+|---|---
+|Chipset|NT72690
+|Release|FUR8.1
+|FW Versions|90.810.X.Y
+|Download Link|https://d2mi77xcznxniv.cloudfront.net/index.html?file=NT72690_FUR8.1.tar.gz
+
 ## Environment
 Individual build components may list different versions of Ubuntu for compilation in their respective README or build instruction files.
 However, all components were compiled successfully on Ubuntu 22.04 (jammy).
@@ -28,6 +36,6 @@ cd NT72690_FUR8.1
 
 Further instructions for the contents of the tarball can be found in its included README.
 
-Download the tarball here: 
+Download the source archive here: 
 https://d2mi77xcznxniv.cloudfront.net/index.html?file=NT72690_FUR8.1.tar.gz
 
